@@ -1,12 +1,5 @@
 # 🚗 Electric Vehicle Sales Analysis - PowerBI
 
-As part of the Codebasics Monthly Resume Challenge #12, I worked on this Electric Vehicle Sales Analysis project.
-
-📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)  
-📊 [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTBkNmY2OTgtZjE3MS00M2UxLWEyYjMtNTQ0Y2IzOTkwNjdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-🔗 [LinkedIn Post](https://www.linkedin.com/posts/arindam430_electric-vehicle-sales-analysis-activity-7237154748016013315-mLLI?utm_source=share&utm_medium=member_desktop)\
-🎥 [Video Presentation](https://youtu.be/L41LGK68HMU)
-
 ## 📝 Problem Statement
 
 AtliQ Motors, a prominent automotive leader from the USA specializing in electric vehicles, has seen its market share in North America's electric and hybrid vehicle segment grow to 25% over the past five years. As part of its global expansion, the company aims to introduce its top-selling models in India, where its current market share is below 2%. To support this initiative, AtliQ Motors conducted an in-depth study of the existing EV and hybrid vehicle market in India.
@@ -75,41 +68,6 @@ $$
 $$
 \left(\frac{PenetrationRate_{2024} - PenetrationRate_{2022}}{PenetrationRate_{2022}}\right) \times 100
 $$
-
-## 📥 Importing Data into PowerBI
-
-Three CSV files were imported directly from SharePoint into Power BI using the required account credentials. Additional datasets, such as charging data, were later added through the same method.
-
-## 🗂️ Data Model
-
-<p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/Data%20Model.png' height="400">
-</p>
-
-## 📊 Home Page
-
-<p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/1.%20Home%20Page.gif' width="600">
-</p>
-
-## 🏭 Makers Page
-
-<p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/2.%20Makers%20Page.gif' width="600">
-</p>
-
-## 🏙️ States Page
-
-<p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/3.%20States%20Page.gif' width="600">
-</p>
-
-## 🌍 Statewise Comparison Page
-
-<p align="center">
-    <img src='https://github.com/Arindam430/EV_Sales_Analysis_PowerBI/blob/main/Resources/4.%20Statewise%20Comparison%20Page.gif' width="600">
-</p>
-
 ## 🎓 Learnings from this Project 
 
 - Created a new type of bar chart visual (Horizontal Bar chart with labels above), useful for various analysis purposes.
