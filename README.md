@@ -27,7 +27,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 
 
 #### **Electric Vehicle Sales by State**
- ![Image Alt]([image_url](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(71).jpg))
+ ![Image Alt]([https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(71))
 - 🗓️ `Date`: The date on which the data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
 - 🏙️ `State`: The name of the state where the sales data is recorded, representing the geographical location within India.
 - 🚗 `vehicle_category`: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
@@ -35,7 +35,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 📊 `total_vehicles_sold`: The total number of vehicles (both electric and non-electric) sold in the specified state and category on the given date.
 
 #### **Electric Vehicle Sales by Makers**
-![Image Alt](image_url)
+![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(73).jpg)
 
 - 🗓️ `Date`: The date on which the sales data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
 - 🚗 `Vehicle Category`: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
