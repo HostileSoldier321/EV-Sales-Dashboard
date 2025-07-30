@@ -35,6 +35,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 📊 `total_vehicles_sold`: The total number of vehicles (both electric and non-electric) sold in the specified state and category on the given date.
 
 #### **Electric Vehicle Sales by Makers**
+![Image Alt](image_url)
 
 - 🗓️ `Date`: The date on which the sales data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
 - 🚗 `Vehicle Category`: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
