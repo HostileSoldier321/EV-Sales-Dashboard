@@ -45,33 +45,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - #### **Satewise Comparison**
 - ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(72).jpg)
 
-## 🧠 Additional Calculated Metrics:
 
-🚗 **Penetration Rate**: This metric represents the percentage of total vehicles that are electric within a specific region or category, indicating the adoption level of electric vehicles. It is calculated as:
-
-$$
-\text{PenetrationRate} = \left(\frac{\text{ElectricVehiclesSold}}{\text{TotalVehiclesSold}}\right) \times 100
-$$
-
-📈 **CAGR (Compound Annual Growth Rate)**: CAGR measures the average annual growth rate over a specified period longer than one year. It is calculated as:
-
-$$
-\text{CAGR} = \left(\frac{\text{LastYearEVSales}}{\text{FirstYearEVSales}}\right)^{\frac{1}{\text{NumberOfYears}}} - 1
-$$
-
-🔄 **Penetration Rate Change from 2022 to 2024**:
-
-- **Absolute Change** - Subtracting one value from another gives the absolute change, providing a straightforward comparison in percentage points. It is calculated as:
-
-$$
-AbsoluteChange = PenetrationRate_{2024} - PenetrationRate_{2022}
-$$
-
-- **Relative Change** - Dividing one value by the other gives the relative change, offering insight into how significant the change is compared to the initial value. It is calculated as:
-
-$$
-\left(\frac{PenetrationRate_{2024} - PenetrationRate_{2022}}{PenetrationRate_{2022}}\right) \times 100
-$$
 ## 🎓 Learnings from this Project 
 
 - Created a new type of bar chart visual (Horizontal Bar chart with labels above), useful for various analysis purposes.
