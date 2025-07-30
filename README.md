@@ -42,6 +42,9 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 🏭 `Maker`: The name of the manufacturer or brand of the electric vehicle.
 - 🔋 `Electric Vehicles Sold`: The number of electric vehicles sold by the specified maker in the given category on the given date.
 
+- #### **Satewise Comparison**
+- ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(72).jpg)
+
 ## 🧠 Additional Calculated Metrics:
 
 🚗 **Penetration Rate**: This metric represents the percentage of total vehicles that are electric within a specific region or category, indicating the adoption level of electric vehicles. It is calculated as:
