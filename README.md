@@ -25,11 +25,11 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 👥 `fiscal_year`: Since the company's fiscal year starts in April, the fiscal years listed are from 2022 to 2024.
 - 📅 `quarter`: Corresponds to the fiscal years' quarters.
 
-- #### **Data Model**
-- ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/c0d94d75bd43c4ae3d45b306484ed7d1558e2604/Data%20Model.png)
+#### **Data Model**
+![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/c0d94d75bd43c4ae3d45b306484ed7d1558e2604/Data%20Model.png)
 
 #### **Electric Vehicle Sales by State**
- ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(71).jpg)
+![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(71).jpg)
 - 🗓️ `Date`: The date on which the data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
 - 🏙️ `State`: The name of the state where the sales data is recorded, representing the geographical location within India.
 - 🚗 `vehicle_category`: Indicates whether the vehicle is a 2-Wheeler or a 4-Wheeler.
@@ -44,8 +44,8 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 🏭 `Maker`: The name of the manufacturer or brand of the electric vehicle.
 - 🔋 `Electric Vehicles Sold`: The number of electric vehicles sold by the specified maker in the given category on the given date.
 
-- #### **Satewise Comparison**
-- ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(72).jpg)
+#### **Satewise Comparison**
+![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(72).jpg)
 
 
 ## 🎓 Learnings from this Project 
