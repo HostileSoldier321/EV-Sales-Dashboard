@@ -27,7 +27,7 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 
 
 #### **Electric Vehicle Sales by State**
-![Image Alt](image_url)
+![Image Alt]([image_url](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/38bc3bc319f3fb5823ced7706464c8e45d5561b6/Screenshot%20(71).png))
 
 - 🗓️ `Date`: The date on which the data was recorded (Format: DD-MMM-YY). Data is recorded monthly.
 - 🏙️ `State`: The name of the state where the sales data is recorded, representing the geographical location within India.
