@@ -78,9 +78,8 @@ $$
 - The electric vehicle market in India is witnessing rapid growth, with a year-on-year (YoY) surge of ~50% in CY2023.
 - EVs made up 6.5% of total vehicle sales last year, with the Electric 2W segment leading at 56% of all EV sales in CY2023, highlighting the growing EV market share in India.
 - In terms of YoY sales growth, the electric car segment saw the highest growth rate of 116% in 2023.
-- Utilized bookmarks and selection for various purposes, such as page navigation and filter clearing on the dashboard. [YouTube tutorial](https://www.youtube.com/watch?v=xCSYLrcLW00).
-- Adopted a color palette for consistency throughout the dashboard ([Color palette link](https://coolors.co/palette/139a43-66d17f-0dab76-d19c1d-fe5f55)).
-
+- Utilized bookmarks and selection for various purposes, such as page navigation and filter clearing on the dashboard.
+- Adopted a color palette for consistency throughout the dashboard.
 ## 🔍 Key Insights from the Dashboard
 
 - Ola Electric has consistently dominated the top position in 2-Wheelers sales from 2023 to 2024.
