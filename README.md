@@ -25,6 +25,9 @@ Understanding the available data is crucial before analysis. Here's a breakdown:
 - 👥 `fiscal_year`: Since the company's fiscal year starts in April, the fiscal years listed are from 2022 to 2024.
 - 📅 `quarter`: Corresponds to the fiscal years' quarters.
 
+- #### **Data Model**
+- ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/c0d94d75bd43c4ae3d45b306484ed7d1558e2604/Data%20Model.png)
+
 
 #### **Electric Vehicle Sales by State**
  ![Image Alt](https://github.com/HostileSoldier321/EV-Sales-Dashboard/blob/3d3b4c4567a55c7a7ee16ac025b96d654882baec/Screenshot%20(71).jpg)
